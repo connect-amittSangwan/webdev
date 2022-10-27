@@ -1,0 +1,4 @@
+.bg-super-dark {
+    --bs-bg-opacity: 4;
+    background-color: black;
+}
